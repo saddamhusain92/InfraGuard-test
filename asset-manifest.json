@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf34fcd2.css",
-    "main.js": "/static/js/main.ca24e9fe.js",
+    "main.css": "/static/css/main.dcf25688.css",
+    "main.js": "/static/js/main.9c2b22c0.js",
     "static/js/787.cf571360.chunk.js": "/static/js/787.cf571360.chunk.js",
     "static/media/presentation_by_ariefputra_preview.mp4": "/static/media/presentation_by_ariefputra_preview.d50ba55cdfc395129a34.mp4",
     "static/media/main-home.png": "/static/media/main-home.f9379458c60a3c944798.png",
@@ -15,12 +15,12 @@
     "static/media/PollerOne-Regular.ttf": "/static/media/PollerOne-Regular.5d43eeaec2e12a853009.ttf",
     "static/media/Infraguard Logo.svg": "/static/media/Infraguard Logo.fbeb6abb2557d4149473cd4498f4c313.svg",
     "index.html": "/index.html",
-    "main.cf34fcd2.css.map": "/static/css/main.cf34fcd2.css.map",
-    "main.ca24e9fe.js.map": "/static/js/main.ca24e9fe.js.map",
+    "main.dcf25688.css.map": "/static/css/main.dcf25688.css.map",
+    "main.9c2b22c0.js.map": "/static/js/main.9c2b22c0.js.map",
     "787.cf571360.chunk.js.map": "/static/js/787.cf571360.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf34fcd2.css",
-    "static/js/main.ca24e9fe.js"
+    "static/css/main.dcf25688.css",
+    "static/js/main.9c2b22c0.js"
   ]
 }
